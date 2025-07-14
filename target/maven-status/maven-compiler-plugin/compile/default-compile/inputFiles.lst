@@ -1,7 +1,3 @@
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\AreaSuperior\AreaSuperior.java
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\AreaSuperior\AreaSuperiorController.java
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\AreaSuperior\AreaSuperiorRepository.java
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\AreaSuperior\AreaSuperiorService.java
 c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\DevunivisionApplication.java
 c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Models\Componente\Componente.java
 c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Models\Componente\ComponenteController.java
@@ -18,8 +14,4 @@ c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devun
 c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Models\Univision\AreaRepository.java
 c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Models\Univision\AreaResponse.java
 c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Models\Univision\AreaService.java
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Organizacion\Organizacion.java
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Organizacion\OrganizacionController.java
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Organizacion\OrganizacionRepository.java
-c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Organizacion\OrganizacionService.java
 c:\ALSG\Desarrollo\Spring boot\devunivision\devunivision\src\main\java\com\devunivision\devunivision\Shared\Response.java
